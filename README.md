@@ -1,2 +1,2 @@
-# C_Hash_Table
-# C_Hash_Table
+# C Hash Table
+C implementation of hash table data structure
